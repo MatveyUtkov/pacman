@@ -1,0 +1,13 @@
+res://Resources/blue_movement_targets.tres::fc5e29a49ec093e67a980a9c2e7aa884::1719382567::res://.godot/exported/133200997/export-69587590e2e50533896775d7bf2bc241-blue_movement_targets.res
+res://Resources/pink_movement_targets.tres::b650d005066dcd5101c769453f5e6fe9::1719382567::res://.godot/exported/133200997/export-632b326ecd692e957a9d5e7f01c50a51-pink_movement_targets.res
+res://Resources/red_movement_targets.tres::c798afc2f2f8b3f85d116cc6d247b71d::1719382567::res://.godot/exported/133200997/export-42e58494154eee5c6bf7a7b82550308a-red_movement_targets.res
+res://Resources/yellow_movement_targets.tres::7980dc133a9f0c6421da16b7e837080e::1719382567::res://.godot/exported/133200997/export-6211d2b0072032bfd6793b958aa391c8-yellow_movement_targets.res
+res://Scenes/connector.tscn::e6beb9fb0f49cbcfde6a73a487488919::1719386821::res://.godot/exported/133200997/export-e1363f3ab0b41fd96f0814186f35e2c4-connector.scn
+res://Scenes/ghost.tscn::394879b5c275d6577fe1928805857e5d::1719386821::res://.godot/exported/133200997/export-6a99f35563fecd8e1c7bb67110cbf436-ghost.scn
+res://Scenes/label_theme.tres::7804f61c0b94494ae5c44f877d0c128b::1719291228::res://.godot/exported/133200997/export-e99dd65e0170403321f4ee4b1bb6b69d-label_theme.res
+res://Scenes/large_pellet.tscn::8f62d635ae80bdcf178d1631739bbddd::1719386821::res://.godot/exported/133200997/export-59707de27d87d1f985d4f782aaebad89-large_pellet.scn
+res://Scenes/main.tscn::6b3395bfd690518649e0fa20057347f7::1719386821::res://.godot/exported/133200997/export-2ddd04d543d5858e7f20c9299a8b5096-main.scn
+res://Scenes/pacman.tscn::2b172f28a7f65a1dd95a6c84e7593156::1719386821::res://.godot/exported/133200997/export-34af81d4373f13ca73cb7c5f36121543-pacman.scn
+res://Scenes/pellet.tscn::0c97dc79cdda21b0ae3b487d5a97d30e::1719386821::res://.godot/exported/133200997/export-121f165b1ac0b7a9f10ce21475f81d7a-pellet.scn
+res://Scenes/ui.tscn::fea4407c15beb35e4e033fbd399a9f4f::1719386821::res://.godot/exported/133200997/export-bc7c2c8286022576ab0a03a61017540b-ui.scn
+res://Scenes/intro.tscn::d62c59a475e99089a7470058c00dad7d::1719386821::res://.godot/exported/133200997/export-cb746c4d132407fc62e3e0c678ce7abe-intro.scn
